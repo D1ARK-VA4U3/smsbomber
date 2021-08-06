@@ -21,4 +21,4 @@ git clone https://github.com/D1ARK-VA4U3/smsbomber
 
 cd smsbomber
 
-python2 sms.py
+python sms.py
