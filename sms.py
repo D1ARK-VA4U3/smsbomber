@@ -1,5 +1,9 @@
 import requests
 # Get
+# This tools Creator By D1ARK-VA4U3
+# FROM BHHC TEAM AND BCA TEAM
+# Don't Try Modified This tools Try make new method
+# Love You Guys
 import smtplib
 import sys
 import os  
